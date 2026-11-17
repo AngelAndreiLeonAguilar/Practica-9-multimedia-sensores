@@ -143,10 +143,6 @@ Las capturas y las pruebas manuales están en [`docs/evidencias/practica-09/prue
 
 La captura de fotos y la lectura de sensores están separadas en `camara_service.dart` y `sensores_service.dart`, así que se pueden reutilizar en el proyecto integrador. Por ejemplo, para adjuntar fotografías de evidencia a un registro o para guardar la orientación del dispositivo en el momento de una captura.
 
-## Uso de IA
-
-Se usó un asistente de IA (Claude) como apoyo para generar y revisar el código y la documentación.
-
 ## Autor
 
 | Nombre | Matrícula |
